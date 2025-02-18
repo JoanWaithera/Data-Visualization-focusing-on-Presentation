@@ -1,7 +1,9 @@
 # Data-Visualization-focusing-on-Presentation
 AdventureWorks Sales Dashboard & Presentations
 
-Link to the Dashboard: https://public.tableau.com/app/profile/joan.njuguna/viz/SalesDashboardAdwentureWorks/Dashboard1?publish=yes Executive Leadership Presentation: https://docs.google.com/presentation/d/12BV7MLmlcHavCgrwc8jKq8caMyicC262/edit?usp=drive_link&ouid=114752924400597138666&rtpof=true&sd=true
+Link to the Dashboard: https://public.tableau.com/app/profile/joan.njuguna/viz/SalesDashboardAdwentureWorks/Dashboard1?publish=yes 
+
+Executive Leadership Presentation: https://docs.google.com/presentation/d/12BV7MLmlcHavCgrwc8jKq8caMyicC262/edit?usp=drive_link&ouid=114752924400597138666&rtpof=true&sd=true
 
 Sales Head Presentation: https://docs.google.com/presentation/d/1mlcXS4hzhpzZthDn-hup0wYkqqxu46lp/edit?usp=sharing&ouid=114752924400597138666&rtpof=true&sd=true
 
